@@ -1,0 +1,6 @@
+PROTOCOL=https
+DOMAIN=www.google.com
+PORT=80
+PAGE=search
+PARAM=q
+VALUE=java
